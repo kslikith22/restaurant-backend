@@ -1,5 +1,5 @@
 export const dbCon = {
-    HOST : "localhost",
+    HOST : "https://restuarant-api.onrender.com",
     USER:"root",
     PASSWORD:'',
     DB:'test',
