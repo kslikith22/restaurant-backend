@@ -1,8 +1,8 @@
 export const dbCon = {
-    HOST : "https://restuarant-api.onrender.com",
-    USER:"root",
-    PASSWORD:'',
-    DB:'test',
+    HOST : "sql12.freesqldatabase.com",
+    USER:"sql12659428",
+    PASSWORD:'XSveMedQQ9',
+    DB:'sql12659428',
     dialect:'mysql',
     pool:{
         max:5, //! max min connections

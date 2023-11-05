@@ -6,7 +6,7 @@ export const Restuarants = sequelize.define("resturants", {
   address: {
     type: DataTypes.TEXT,
   },
-  contact: DataTypes.NUMBER,
+  contact: DataTypes.TEXT,
 });
 
 (async () => {
